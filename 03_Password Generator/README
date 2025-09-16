@@ -1,0 +1,4 @@
+A simple Python program that generates random passwords.
+You can choose the password length and keep generating passwords until you exit.
+How to Run:
+python main.py
