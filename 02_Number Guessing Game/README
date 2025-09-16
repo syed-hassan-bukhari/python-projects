@@ -1,0 +1,13 @@
+Number Guessing Game 🎯
+
+A simple Python program where the computer picks a random number between 1 and 100, and you try to guess it.
+It will tell you if you need to guess higher or lower until you get the correct number.
+
+How to Run
+
+Save the code in a file, e.g. number_guess.py.
+
+Run it in the terminal:
+                  python number_guess.py
+
+Keep guessing until you win! 🎉                  
