@@ -10,7 +10,7 @@ while Guess != number :
         print("Guess higher!: ")
 
     elif ( Guess > number):
-        print("Guess lower!: ")
+        print("Guess lower!:")
     else:
         print(" YOU WON ")
                 
