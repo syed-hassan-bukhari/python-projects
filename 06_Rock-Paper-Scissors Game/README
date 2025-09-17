@@ -1,0 +1,45 @@
+Rock-Paper-Scissors Game 🎮
+
+A simple Python implementation of the classic Rock–Paper–Scissors game.
+You play against the computer, and the game keeps track of scores until you decide to stop.
+
+📋 Features
+
+Play Rock, Paper, Scissors against the computer.
+
+Keeps track of your score, computer score, and ties.
+
+Runs until you choose to quit.
+
+Simple terminal-based game.
+
+🛠 Requirements
+
+Python 3.10+ (tested on Python 3.13)
+
+No external libraries required (uses only Python's built-in random module).
+
+▶️ How to Run
+
+Save the code in a file called main.py (or any name you like).
+
+Open a terminal and navigate to the folder where your file is saved.
+
+Run the program:
+
+python main.py
+
+
+Follow the on-screen instructions to play.
+
+🕹️ How to Play
+
+Enter 1 for Rock, 2 for Paper, or 3 for Scissors.
+
+The computer will randomly choose its move.
+
+The winner of the round will be displayed.
+
+Scores will be updated automatically.
+
+You can continue playing by entering Y or quit by entering N.
