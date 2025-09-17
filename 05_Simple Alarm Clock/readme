@@ -1,0 +1,18 @@
+Simple Alarm Clock ⏰
+
+A simple Python alarm clock that counts down for a given number of minutes and plays an alarm sound when the timer ends.
+
+How to Run
+
+Place an Alarm.mp3 file in the same folder as main.py.
+
+Run the program:
+
+python main.py
+
+
+Enter the number of minutes to wait.
+
+The program will count down and play the alarm sound.
+
+Press Enter to stop the alarm.
