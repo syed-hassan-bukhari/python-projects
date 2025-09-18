@@ -1,0 +1,17 @@
+# Mad Libs Generator 🎭
+
+This is a simple **Mad Libs Generator** made in Python.  
+It asks the user for a **noun, verb, adjective, place, and animal**, then fills them into a random story template to create a fun and silly story.
+
+## How to Run
+1. Make sure you have **Python 3** installed.
+2. Save the code in a file named `main.py`.
+3. Open a terminal in the project folder.
+4. Run:
+   ```bash
+   python main.py
+
+
+Enter the requested words when prompted.
+
+Enjoy your randomly generated story!
