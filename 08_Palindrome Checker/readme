@@ -1,0 +1,14 @@
+Palindrome Checker 🪞
+
+This is a simple Python program that checks whether a given word or number is a palindrome.
+A palindrome is a word, phrase, or number that reads the same backward as forward (e.g., madam, 121).
+
+How It Works
+
+The user enters a word or number.
+
+The program reverses the input using Python string slicing ([::-1]).
+
+It compares the original value with the reversed value.
+
+It prints whether the input is a palindrome or not.

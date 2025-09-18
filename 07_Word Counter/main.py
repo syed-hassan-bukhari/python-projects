@@ -14,5 +14,5 @@ def count_words(file_path):
     except Exception as e:
         print(f"\n An error occurred: {e}")
 
-file_path = input("Enter full file path : ").strip()
+file_path = input("Enter full file path (e.g. C:/Users/Hassan/Desktop/demo.txt): ").strip()
 count_words(file_path)
