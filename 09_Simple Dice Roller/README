@@ -1,0 +1,21 @@
+🎲 Simple Dice Roller
+
+This is a simple Python program that simulates rolling a dice. It generates a random number between 1 and 6 each time you run it.
+
+🚀 How It Works
+
+The program uses Python’s random module.
+
+Each roll generates a random number between 1 and 6.
+
+You can choose to roll again or exit.
+
+🖥️ How to Run
+
+Make sure you have Python 3 installed.
+
+Save the code as main.py.
+
+Run the file in your terminal:
+
+python main.py
