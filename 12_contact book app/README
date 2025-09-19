@@ -1,0 +1,20 @@
+# 📒 Contact Book (Python)
+
+A beginner-friendly Python contact management program that lets you **create, view, update, delete, search, and count contacts** right from the terminal.
+
+## 🚀 Features
+- 🆕 **Create Contact** – Add a new contact with name, age, email, and mobile number.
+- 👀 **View Contact** – See details of a saved contact by name.
+- ✏ **Update Contact** – Edit an existing contact’s details.
+- ❌ **Delete Contact** – Remove a contact from your book.
+- 🔎 **Search Contact** – Find a contact by name.
+- 🔢 **Count Contacts** – Show how many contacts are stored.
+- 🛑 **Exit** – Close the program anytime.
+
+## 🖥️ How to Run
+1. Make sure Python is installed (Python 3.6+ recommended).
+2. Save the code as `contact_book.py`.
+3. Open a terminal/command prompt in the same folder.
+4. Run the program:
+   ```bash
+   python contact_book.py
