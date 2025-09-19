@@ -1,0 +1,18 @@
+# 📝 Simple Task Manager (Python)
+
+This is a beginner-friendly Python program that lets you **add, update, delete, view, and manage daily tasks** directly from the terminal.
+
+## 🚀 Features
+- ➕ **Add Tasks** – Enter tasks at the start or add more anytime.
+- ✏ **Update Tasks** – Replace an existing task with a new one.
+- ❌ **Delete Tasks** – Remove a task from your list.
+- 👀 **View Tasks** – See your current list of tasks.
+- 🛑 **Exit Safely** – Close the program anytime.
+
+## 🖥️ How to Run
+1. Make sure you have Python installed (Python 3.6+ recommended).
+2. Save the script as `task_manager.py`.
+3. Open a terminal/command prompt in the same folder.
+4. Run the program:
+   ```bash
+   python task_manager.py
