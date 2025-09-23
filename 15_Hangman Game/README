@@ -1,0 +1,24 @@
+Hangman Game 🎯
+
+A simple Python implementation of the classic Hangman game.
+Guess the hidden word letter by letter before you run out of attempts!
+
+Features
+
+Randomly selects a word from a predefined list
+
+Tracks guessed letters
+
+Displays the word with blanks (_) for unguessed letters
+
+Ends when the player either guesses all letters or runs out of attempts
+
+How to Run
+
+Make sure you have Python 3 installed.
+
+Save the code as hangman.py.
+
+Open a terminal or command prompt and run:
+
+python hangman.py
