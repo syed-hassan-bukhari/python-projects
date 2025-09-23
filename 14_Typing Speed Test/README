@@ -1,0 +1,26 @@
+⌨ Typing Speed Test
+
+This is a simple Typing Speed Test program written in Python.
+It helps you measure how fast and accurately you can type a given sentence.
+
+📌 Features
+
+Randomly selects a sentence from a predefined list.
+
+Measures time taken to type the sentence.
+
+Calculates Words Per Minute (WPM).
+
+Calculates accuracy by comparing your typed text with the original.
+
+🛠 How to Run
+
+Make sure you have Python 3 installed on your system.
+
+Save the code in a file named main.py.
+
+Open a terminal or command prompt and navigate to the project folder.
+
+Run the program:
+
+python main.py
