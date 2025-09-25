@@ -1,0 +1,23 @@
+🧮 Unit Converter
+
+A simple Python program that converts length and weight between different units. This program runs in the terminal and allows users to repeatedly convert values until they choose to exit.
+
+📌 Features
+
+✅ Length Conversion – Convert between meters, kilometers, centimeters, inches, and feet.
+
+✅ Weight Conversion – Convert between grams, kilograms, pounds, and ounces.
+
+✅ User-Friendly Menu – Easy navigation with options to select conversion type.
+
+✅ Loop System – Keep converting until you choose to exit.
+
+📂 How to Run
+
+Make sure you have Python 3 installed.
+
+Save the script as unit_converter.py.
+
+Open a terminal or command prompt and run:
+
+python unit_converter.py
