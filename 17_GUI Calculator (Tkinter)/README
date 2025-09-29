@@ -1,0 +1,24 @@
+🧮 GUI Calculator
+
+A simple GUI Calculator built using Python's Tkinter library.
+It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division through a user-friendly graphical interface.
+
+✨ Features
+
+Simple and clean interface
+
+Supports +, -, *, /, and decimal numbers
+
+Displays results instantly
+
+Clear button (C) to reset the input
+
+🖥️ How to Run
+
+Make sure you have Python 3.x installed.
+
+Save the code in a file named calculator.py.
+
+Run the script:
+
+python calculator.py
