@@ -1,0 +1,31 @@
+Currency Converter
+
+This is a simple Python program that converts one currency to another using real-time exchange rates.
+
+How to Use
+
+Run the program.
+
+Enter the amount you want to convert.
+
+Enter the currency you are converting from (e.g., USD).
+
+Enter the currency you are converting to (e.g., PKR).
+
+The program will show the converted amount.
+
+Requirements
+
+Python installed
+
+Internet connection
+
+Install requests library using:
+
+pip install requests
+
+Example
+Enter amount to convert: 100
+From currency: USD
+To currency: PKR
+100 USD = 27800.50 PKR
