@@ -20,7 +20,7 @@ Save the code in a file called banking.py.
 
 Open your terminal and run:
 
-python banking.py
+  python banking.py
 
 Example Usage
 Banking Program

@@ -9,7 +9,7 @@ This is a beginner-friendly Python program that lets you **add, update, delete, 
 - 👀 **View Tasks** – See your current list of tasks.
 - 🛑 **Exit Safely** – Close the program anytime.
 
-## 🖥️ How to Run
+## 🖥️  How to Run
 1. Make sure you have Python installed (Python 3.6+ recommended).
 2. Save the script as `task_manager.py`.
 3. Open a terminal/command prompt in the same folder.

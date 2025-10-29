@@ -3,7 +3,7 @@ Rock-Paper-Scissors Game 🎮
 A simple Python implementation of the classic Rock–Paper–Scissors game.
 You play against the computer, and the game keeps track of scores until you decide to stop.
 
-📋 Features
+📋  Features
 
 Play Rock, Paper, Scissors against the computer.
 

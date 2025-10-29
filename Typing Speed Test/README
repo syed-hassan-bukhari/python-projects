@@ -23,4 +23,4 @@ Open a terminal or command prompt and navigate to the project folder.
 
 Run the program:
 
-python main.py
+      python main.py

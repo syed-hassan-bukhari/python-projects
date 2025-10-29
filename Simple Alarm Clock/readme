@@ -8,7 +8,7 @@ Place an Alarm.mp3 file in the same folder as main.py.
 
 Run the program:
 
-python main.py
+  python main.py
 
 
 Enter the number of minutes to wait.

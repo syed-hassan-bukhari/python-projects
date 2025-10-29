@@ -19,4 +19,4 @@ Make sure you have a text file named TXT_file.txt in the same folder as the scri
 
 Run the Python file:
 
-python main.py
+  python main.py

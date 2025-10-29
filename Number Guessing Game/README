@@ -8,6 +8,6 @@ How to Run
 Save the code in a file, e.g. number_guess.py.
 
 Run it in the terminal:
-                  python number_guess.py
+                   python number_guess.py
 
 Keep guessing until you win! 🎉                  

@@ -24,6 +24,7 @@ Install requests library using:
 
 pip install requests
 
+
 Example
 Enter amount to convert: 100
 From currency: USD

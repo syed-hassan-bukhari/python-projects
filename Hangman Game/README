@@ -3,7 +3,7 @@ Hangman Game 🎯
 A simple Python implementation of the classic Hangman game.
 Guess the hidden word letter by letter before you run out of attempts!
 
-Features
+ Features
 
 Randomly selects a word from a predefined list
 
